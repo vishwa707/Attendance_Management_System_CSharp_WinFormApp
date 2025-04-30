@@ -117,16 +117,6 @@ This project demonstrates how a robust, offline **Attendance Management System**
 
 ---
 
-## 🖥️ Screenshots
-
-_Add screenshots of your forms here (LoginForm, MarkAttendanceForm, MainForm, PDF export, etc.)_
-
----
-
-## 🧑‍💻 Author
-
-- [Your Name or GitHub Username]
-
 ---
 
 ## 📄 License
